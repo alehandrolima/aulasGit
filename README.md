@@ -1,5 +1,5 @@
 # Aulas Git
-## REAME.md
+## README.md
 1. git status
 2. git add .
 3. git commit -a -m "usando tags"
